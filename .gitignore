@@ -1,0 +1,7 @@
+*.iml
+.idea
+src
+docker-compose.yml
+menu.ini
+/nbproject/*
+.log.git
